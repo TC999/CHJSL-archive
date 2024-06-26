@@ -17,8 +17,8 @@
 > [!NOTE]
 > 1462（旧）已被新内容覆盖，全网找不到该影片补档
 
-|编号|                 片名                     |当前状态|存档地址|
-|----|-----------------------------------------|-------|---|
-|1491|夫妻高速上吵架，妻子气得躺在高速公路中央！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1sZ421p7P6)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.91)|
-|1482|女子停车被男孩殴打威胁！男孩：反正我没满16岁，判不了死刑！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1Sy411b78x)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.82)|
-|1468|男孩开车载全家上高速，全车人一起玩游戏！|**仅剩标题内容**|[B站补档](https://www.bilibili.com/video/BV1gn4y1d7kG)|
+|编号|                 片名                     |当前状态|存档地址|发布日期|
+|----|-----------------------------------------|--------|---|---------------|
+|1491|夫妻高速上吵架，妻子气得躺在高速公路中央！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1sZ421p7P6)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.91)|2024年5月27日|
+|1482|女子停车被男孩殴打威胁！男孩：反正我没满16岁，判不了死刑！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1Sy411b78x)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.82)|2024年5月17日|
+|1468|男孩开车载全家上高速，全车人一起玩游戏！|**仅剩标题内容**|[B站补档](https://www.bilibili.com/video/BV1gn4y1d7kG)|2024年5月3日|
