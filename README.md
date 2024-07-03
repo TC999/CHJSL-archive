@@ -21,6 +21,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
+|1518|小伙考科目二挂科，气得开教练车上路散心！|**已删三阶**|[B站补档](https://www.bilibili.com/video/BV1mE421A7BF)[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.18)|2024年7月2日|
 |1511|司机撞翻等红灯女子，看一眼后直接加速压过逃走！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1jm421576L),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.11)|2024年6月24日|
 |1491|夫妻高速上吵架，妻子气得躺在高速公路中央！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1sZ421p7P6)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.91)|2024年5月27日|
 |1482|女子停车被男孩殴打威胁！男孩：反正我没满16岁，判不了死刑！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1Sy411b78x)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.82)|2024年5月17日|
