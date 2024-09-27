@@ -7,6 +7,7 @@
 
 ## 说明
 所有资料（封面、弹幕、影片、字幕）均放在[发行版(Release)](https://github.com/TC999/CHJSL-archive/releases)中
+
 ### 文件格式说明：
 - `.ASSA`: 弹幕文件，一般是早期弹幕
 - `.JPG`: 封面
