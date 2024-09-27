@@ -2,7 +2,7 @@
 存档[车祸警示录](https://space.bilibili.com/539418077)的所有失效影片
 
 ## 为什么有这个仓库
-仅一段素材违规就整支影片删除，本仓库仅用来存档
+仅一段素材违规就整支影片删除，本仓库仅用来存档，同时防止B站审核把补档吃掉
 如有新的失效影片请在[议题(issue)](https://github.com/TC999/CHJSL-archive/issues)提出
 
 ## 说明
@@ -22,6 +22,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
+|1579|男子骑车被撞翻要20元私了，浑然不知颅内出血！|**31重码**|[B站补档1](https://www.bilibili.com/video/BV1nCtMe9EDx),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.79)|2024年9月13日|
 |1518|小伙考科目二挂科，气得开教练车上路散心！|**已删三阶**|[B站补档](https://www.bilibili.com/video/BV1mE421A7BF),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.18)|2024年7月2日|
 |1511|司机撞翻等红灯女子，看一眼后直接加速压过逃走！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1jm421576L),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.11)|2024年6月24日|
 |1491|夫妻高速上吵架，妻子气得躺在高速公路中央！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1sZ421p7P6)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.91)|2024年5月27日|
