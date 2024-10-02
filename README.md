@@ -19,10 +19,13 @@
 > 1462（旧）已被新内容覆盖，全网找不到该影片补档
 >
 > 1468 B站已有其他人补档，故不收录，仅提供跳转
+>
+> B站补档后带的数字为重新补档次数
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
 |1579|男子骑车被撞翻要20元私了，浑然不知颅内出血！|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1nCtMe9EDx),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.79)|2024年9月13日|
+|1546|小伙开车遇到加塞就撞，一年出险222次，获赔61万！|**替换第5条**|[B站补档](https://www.bilibili.com/video/BV1rgxpeREkk),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.46)|2024年8月3日|
 |1518|小伙考科目二挂科，气得开教练车上路散心！|**已删三阶**|[B站补档](https://www.bilibili.com/video/BV1mE421A7BF),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.18)|2024年7月2日|
 |1511|司机撞翻等红灯女子，看一眼后直接加速压过逃走！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1jm421576L),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.11)|2024年6月24日|
 |1491|夫妻高速上吵架，妻子气得躺在高速公路中央！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1sZ421p7P6)，[Github](https://github.com/TC999/CHJSL-archive/releases/tag/v14.91)|2024年5月27日|
