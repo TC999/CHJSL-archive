@@ -6,6 +6,10 @@
 如有新的失效影片请在[议题(issue)](https://github.com/TC999/CHJSL-archive/issues)提出
 
 ## 说明
+> [!NOTE]
+>
+> 发行版中的影片不完全是下架影片，大部分为正常备份
+
 所有资料（封面、弹幕、影片、字幕）均放在[发行版(Release)](https://github.com/TC999/CHJSL-archive/releases)中
 
 ### 文件格式说明：
