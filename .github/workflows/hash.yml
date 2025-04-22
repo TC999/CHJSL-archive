@@ -19,18 +19,23 @@ jobs:
 
     steps:
       # Step 1: 检出代码
-      - name: Checkout code
+      - name: 检出代码
         uses: actions/checkout@v3
 
-      # Step 2: 计算文件的 MD5 值
-      - name: Calculate MD5
+      - name: 下载影片
         run: |
-          FILE_PATH="path/to/your/file"  # 替换为需要校验的文件路径
-          EXPECTED_MD5="your_expected_md5_hash"  # 替换为预期的 MD5 值
+          chmod +x download.sh
+          ./download.sh ${{ inputs.version }}
+
+      # Step 2: 计算文件的 MD5 值
+      - name: 计算 MD5
+        run: |
+          FILE_PATH="1.mp4"  # 替换为需要校验的文件路径
+          EXPECTED_MD5="${{ inputs.hash }}"  # 替换为预期的 MD5 值
           
           if [ -f "$FILE_PATH" ]; then
             ACTUAL_MD5=$(md5sum "$FILE_PATH" | awk '{ print $1 }')
-            echo "Actual MD5: $ACTUAL_MD5"
+            echo "当前 MD5: $ACTUAL_MD5"
             
             if [ "$ACTUAL_MD5" = "$EXPECTED_MD5" ]; then
               echo "MD5 匹配。"
