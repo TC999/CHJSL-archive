@@ -1,0 +1,44 @@
+name: 校验 MD5 值
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '期数'
+        default: v16.xx
+        required: true
+        type: string
+      hash:
+        description: 'md5 值'
+        required: true
+        type: string
+
+jobs:
+  md5-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: 检出代码
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: 计算文件的 MD5 值
+      - name: Calculate MD5
+        run: |
+          FILE_PATH="path/to/your/file"  # 替换为需要校验的文件路径
+          EXPECTED_MD5="your_expected_md5_hash"  # 替换为预期的 MD5 值
+          
+          if [ -f "$FILE_PATH" ]; then
+            ACTUAL_MD5=$(md5sum "$FILE_PATH" | awk '{ print $1 }')
+            echo "Actual MD5: $ACTUAL_MD5"
+            
+            if [ "$ACTUAL_MD5" = "$EXPECTED_MD5" ]; then
+              echo "MD5 匹配。"
+            else
+              echo "MD5 不匹配！"
+              exit 1
+            fi
+          else
+            echo "文件未找到: $FILE_PATH"
+            exit 1
+          fi
