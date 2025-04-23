@@ -1,0 +1,60 @@
+name: Compare MP4 Files Between Releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag_1:
+        description: '第一个发行版标签 (如 v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+      release_tag_2:
+        description: '第二个发行版标签 (如 v2.0.0)'
+        required: true
+        default: 'v2.0.0'
+
+jobs:
+  compare-mp4:
+    runs-on: ubuntu-latest
+    steps:
+      #- name: 检出仓库
+      #  uses: actions/checkout@v4
+
+      - name: 下载第一个发行版的 MP4 文件（1.mp4）
+        run: |
+          gh release download ${{ github.event.inputs.release_tag_1 }} --pattern "1.mp4" -D release1/
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 下载第二个发行版的 MP4 文件（2.mp4）
+        run: |
+          gh release download ${{ github.event.inputs.release_tag_2 }} --pattern "2.mp4" -D release2/
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 检查文件是否存在
+        run: |
+          if [ ! -f "release1/1.mp4" ]; then
+            echo "第一个发行版未找到 1.mp4"
+            exit 1
+          fi
+          if [ ! -f "release2/2.mp4" ]; then
+            echo "第二个发行版未找到 2.mp4"
+            exit 1
+          fi
+
+      - name: 安装 mp4diff（需要 Node.js 环境）
+        run: |
+          npm install -g mp4box
+          pip install mp4-diff
+
+      - name: 比较 MP4 文件
+        run: |
+          echo "比较 release1/1.mp4 和 release2/2.mp4"
+          mp4-diff "release1/1.mp4" "release2/2.mp4" > mp4_diff_result.txt || true
+          cat mp4_diff_result.txt
+
+      - name: 上传比较结果
+        uses: actions/upload-artifact@v4
+        with:
+          name: mp4-diff-result
+          path: mp4_diff_result.txt
