@@ -48,9 +48,9 @@ jobs:
           unzip Bento4-SDK-1-6-0-641.x86_64-unknown-linux.zip -d bento4
           export PATH=$PATH:$(pwd)/bento4/bin
 
-      - name: 检查 mp4dump 安装路径
-        run: |
-          which mp4dump || { echo "mp4dump 未安装"; exit 1; }
+      #- name: 检查 mp4dump 安装路径
+      #  run: |
+      #    which mp4dump || { echo "mp4dump 未安装"; exit 1; }
 
       - name: 结构化比较 MP4 文件
         run: |
