@@ -25,7 +25,7 @@ jobs:
       - name: 下载影片
         run: |
           chmod +x download.sh
-          ./download.sh ${{ inputs.version }}
+          ./download.sh ${{ inputs.version }} 1.mp4
 
       # Step 2: 计算文件的 MD5 值
       - name: 计算 MD5
