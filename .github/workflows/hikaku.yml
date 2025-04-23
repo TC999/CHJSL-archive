@@ -1,4 +1,4 @@
-name: Compare MP4 Files Between Releases
+name: 比较影片差异
 
 on:
   workflow_dispatch:
