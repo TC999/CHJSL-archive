@@ -54,8 +54,8 @@ jobs:
 
       - name: 结构化比较 MP4 文件
         run: |
-          ./bento4/bin/mp4dump release1/1.mp4 > 1.txt
-          ./bento4/bin/mp4dump release2/2.mp4 > 2.txt
+          ./bento4/bin/mp4dump 1.mp4 > 1.txt
+          ./bento4/bin/mp4dump 2.mp4 > 2.txt
           diff 1.txt 2.txt > mp4_diff_result.txt || true
           cat mp4_diff_result.txt
 
