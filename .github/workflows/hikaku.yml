@@ -45,12 +45,13 @@ jobs:
       - name: 安装 MP4Box
         run: |
           sudo apt-get update
-          sudo apt-get install -y gpac language-pack-zh-hans
+          sudo apt-get install language-pack-zh-hans
+          sudo apt-get install gpac gpac-tools
 
       - name: 结构化比较 MP4 文件
         run: |
-          mp4dump release1/1.mp4 > 1.txt
-          mp4dump release2/2.mp4 > 2.txt
+          mp4dump 1.mp4 > 1.txt
+          mp4dump 2.mp4 > 2.txt
           diff 1.txt 2.txt > mp4_diff_result.txt || true
           cat mp4_diff_result.txt
 
