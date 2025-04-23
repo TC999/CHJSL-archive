@@ -21,23 +21,21 @@ jobs:
 
       - name: 下载第一个发行版的 MP4 文件（1.mp4）
         run: |
-          gh release download ${{ github.event.inputs.release_tag_1 }} --pattern "1.mp4" -D release1/
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          chmod +x download.sh
+          ./download.sh ${{ inputs.release_tag_1 }} 1.mp4
 
       - name: 下载第二个发行版的 MP4 文件（2.mp4）
         run: |
-          gh release download ${{ github.event.inputs.release_tag_2 }} --pattern "2.mp4" -D release2/
-        #env:
-        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          chmod +x download.sh
+          ./download.sh ${{ inputs.release_tag_2 }} 2.mp4
 
       - name: 检查文件是否存在
         run: |
-          if [ ! -f "release1/1.mp4" ]; then
+          if [ ! -f "1.mp4" ]; then
             echo "第一个发行版未找到 1.mp4"
             exit 1
           fi
-          if [ ! -f "release2/2.mp4" ]; then
+          if [ ! -f "2.mp4" ]; then
             echo "第二个发行版未找到 2.mp4"
             exit 1
           fi
