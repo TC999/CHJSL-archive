@@ -29,7 +29,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
-|1748|大妈为了省电，偷红绿灯的电充老头乐：我60多岁不懂啊|**已删档**|[B站补档](https://www.bilibili.com/video/BV16ueNzHEkM),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.48)|2025年8月8日|
+|1748|大妈为了省电，偷红绿灯的电充老头乐：我60多岁不懂啊|**14删除**|[B站补档](https://www.bilibili.com/video/BV16ueNzHEkM),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.48)|2025年8月8日|
 |1705|大堵车奔驰逆行插队，暴躁老哥一拳干碎车玻璃！|**27删减**|[B站补档](https://www.bilibili.com/video/BV1WgEczgE8N)，[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.05)|2025年5月12日|
 |1616|小伙不系安全带被查，直接亮出卡扣：我有这个！交警气笑了|**已删档**|[B站补档](https://www.bilibili.com/video/BV1HtBeYTEJX/),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v16.16)|2024年11月14日|
 |1615|骑士聚会炸街压弯，不料路中间一堆屎！村民：不小心|**28删减**|[B站补档](https://www.bilibili.com/video/BV1qimZYnEsE)，[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v16.15)|2024年11月12日|
