@@ -29,6 +29,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
+|1767|女子横穿马路被判全责，家属不服：以前驾驶员都要带点责任，现在怎么变了？|**15删除**|[B站补档](https://www.bilibili.com/video/BV1gBptz6EXS),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.67)|2025年9月16日|
 |1758|鬼火少年正在翘头炫技，结果遇上不看路的司机|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1UyhozqEwc),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.58)|2025年8月28日|
 |1748|大妈为了省电，偷红绿灯的电充老头乐：我60多岁不懂啊|**14删除**|[B站补档](https://www.bilibili.com/video/BV16ueNzHEkM),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.48)|2025年8月8日|
 |1705|大堵车奔驰逆行插队，暴躁老哥一拳干碎车玻璃！|**27删减**|[B站补档](https://www.bilibili.com/video/BV1WgEczgE8N)，[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.05)|2025年5月12日|
