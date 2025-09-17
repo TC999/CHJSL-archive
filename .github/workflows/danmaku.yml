@@ -19,6 +19,9 @@ jobs:
       - name: 拉取代码
         uses: actions/checkout@v2
 
+      - name: 安装中文字体
+        run: sudo apt-get update && sudo apt-get install -y fonts-noto-cjk fonts-arphic-uming fonts-arphic-ukai
+
       - name: 安装 ffmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
