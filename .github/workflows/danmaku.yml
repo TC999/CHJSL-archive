@@ -1,0 +1,40 @@
+name: 弹幕合并
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '期数'
+        default: v16.xx
+        required: true
+        type: string
+
+jobs:
+  merge_danmaku:
+    name: 弹幕合并
+    runs-on: ubuntu-latest
+    steps:
+      #- name: Checkout code
+      #  uses: actions/checkout@v2
+
+      - name: 安装 ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: 下载影片
+        run: |
+          chmod +x download.sh
+          ./download.sh ${{ inputs.version }} 1.mp4
+
+      - name: 下载弹幕
+        run: |
+          wget https://github.com/TC999/CHJSL-archive/releases/download/${{ inputs.version }}/merge.ass
+
+      - name: 合并弹幕
+        run: |
+          ffmpeg -i 1.mp4 -vf "ass=merge.ass" -c:a copy danmaku.mp4
+
+      - name: 上传到发行版
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ inputs.version }}
+          files: danmaku.mp4
