@@ -13,6 +13,8 @@ jobs:
   merge_danmaku:
     name: 弹幕合并
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: 拉取代码
         uses: actions/checkout@v2
