@@ -14,8 +14,8 @@ jobs:
     name: 弹幕合并
     runs-on: ubuntu-latest
     steps:
-      #- name: Checkout code
-      #  uses: actions/checkout@v2
+      - name: 拉取代码
+        uses: actions/checkout@v2
 
       - name: 安装 ffmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
