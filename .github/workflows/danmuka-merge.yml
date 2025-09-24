@@ -1,0 +1,34 @@
+name: 弹幕去重
+
+on: 
+  workflow_dispatch:
+    inputs:
+      version:
+        description: '期数'
+        default: v16.xx
+        required: true
+        type: string
+
+jobs:
+  merge_danmaku:
+    name: 弹幕去重
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 拉取代码
+        uses: actions/checkout@v2
+      - name: 下载影片
+        run: |
+          chmod +x danmakudl.sh
+          ./danmakudl.sh ${{ inputs.version }} 1.ass
+
+      - name: 弹幕去重
+        run: |
+          python pakku.py 1.ass merge.ass
+
+      - name: 上传到发行版
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ inputs.version }}
+          files: merge.ass
