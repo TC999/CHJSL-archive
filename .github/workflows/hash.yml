@@ -5,7 +5,7 @@ on:
     inputs:
       version:
         description: '期数'
-        default: v16.xx
+        default: v17.xx
         required: true
         type: string
       hash:
