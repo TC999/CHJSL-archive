@@ -33,7 +33,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
-|1805|精神小伙开车载妹狂飙时速200，撞人后淡定摆pose拍照|**已删档**|[B站补档](https://www.bilibili.com/video/BV1PwS4B6Ee5),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.05)|2025年12月1日|
+|1805|精神小伙开车载妹狂飙时速200，撞人后淡定摆pose拍照|**已删档**|[B站补档1](https://www.bilibili.com/video/BV16G2hBBEvv),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.05)|2025年12月1日|
 |1767|女子横穿马路被判全责，家属不服：以前驾驶员都要带点责任，现在怎么变了？|**15删除**|[B站补档](https://www.bilibili.com/video/BV1gBptz6EXS),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.67)|2025年9月16日|
 |1758|鬼火少年正在翘头炫技，结果遇上不看路的司机|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1UyhozqEwc),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.58)|2025年8月28日|
 |1748|大妈为了省电，偷红绿灯的电充老头乐：我60多岁不懂啊|**14删除**|[B站补档](https://www.bilibili.com/video/BV16ueNzHEkM),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.48)|2025年8月8日|
