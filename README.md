@@ -25,9 +25,13 @@
 
 ## 删改影片列表（请用`Ctrl+F`搜索）
 > [!NOTE]
+> 1165 取自其他人的直播切片
+>
 > 1462（旧）已被新内容覆盖，全网找不到该影片补档
 >
 > 1468 B站已有其他人补档，故不收录，仅提供跳转
+>
+> 1574 取自其他人的补档
 >
 > B站补档后带的数字为重新补档次数
 
@@ -43,6 +47,7 @@
 |1616|小伙不系安全带被查，直接亮出卡扣：我有这个！交警气笑了|**已删档**|[B站补档](https://www.bilibili.com/video/BV1HtBeYTEJX/),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v16.16)|2024年11月14日|
 |1615|骑士聚会炸街压弯，不料路中间一堆屎！村民：不小心|**28删减**|[B站补档](https://www.bilibili.com/video/BV1qimZYnEsE)，[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v16.15)|2024年11月12日|
 |1579|男子骑车被撞翻要20元私了，浑然不知颅内出血！|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1nCtMe9EDx),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.79)|2024年9月13日|
+|1574|小伙闯红灯被罚报室友身份证，结果查出室友是逃犯！|**29删除**|[B站补档](https://www.bilibili.com/video/BV1EqFZzVEDN/),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.74)|2024年9月5日|
 |1546|小伙开车遇到加塞就撞，一年出险222次，获赔61万！|**替换第5条**|[B站补档](https://www.bilibili.com/video/BV1rgxpeREkk),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.46)|2024年8月3日|
 |1518|小伙考科目二挂科，气得开教练车上路散心！|**已删三阶**|[B站补档](https://www.bilibili.com/video/BV1mE421A7BF),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.18)|2024年7月2日|
 |1511|司机撞翻等红灯女子，看一眼后直接加速压过逃走！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1jm421576L),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v15.11)|2024年6月24日|
