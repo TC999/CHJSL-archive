@@ -39,6 +39,7 @@
 
 |编号|                 片名                     |当前状态|存档地址|发布日期|
 |----|-----------------------------------------|--------|---|---------------|
+|1904|男子开车前习惯绕车检查，发现大爷把头伸进车底睡觉！|**已删档**|[B站补档](https://www.bilibili.com/video/BV15zjw6GEfs),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v19.04)|2026年6月15日|
 |1879|最霸道的逃停车费方式，留下视频车司机在原地凌乱～|**已删档**|[B站补档](https://www.bilibili.com/video/BV1AkRWB5ERB),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.79)|2026年4月26日|
 |1845|老头乐横穿马路，拉粪车急刹避让！大爷被屎淹没！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1KEZpBQEzN),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.45)|2026年2月14日|
 |1824|汽车博主逆天爆改，车头全是涡轮，上路开了18分钟驾照被吊销|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1PjQmBBEsN),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.24)|2026年1月8日|
