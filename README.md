@@ -42,7 +42,7 @@
 |1950|男子让豆包选下葬吉日，结果葬礼后亲戚出车祸！起诉豆包公司！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1C8hJ6GE7K),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v19.50)|2026年9月21日|
 |1904|男子开车前习惯绕车检查，发现大爷把头伸进车底睡觉！|**已删档**|[B站补档](https://www.bilibili.com/video/BV15zjw6GEfs),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v19.04)|2026年6月15日|
 |1879|最霸道的逃停车费方式，留下视频车司机在原地凌乱～|**已删档**|[B站补档](https://www.bilibili.com/video/BV1AkRWB5ERB),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.79)|2026年4月26日|
-|1845|老头乐横穿马路，拉粪车急刹避让！大爷被屎淹没！|**已删档**|[B站补档](https://www.bilibili.com/video/BV1KEZpBQEzN),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.45)|2026年2月14日|
+|1845|老头乐横穿马路，拉粪车急刹避让！大爷被屎淹没！|**已删档**|[B站补档1](https://www.bilibili.com/video/BV16EH76zEFg),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.45)|2026年2月14日|
 |1824|汽车博主逆天爆改，车头全是涡轮，上路开了18分钟驾照被吊销|**已删档**|[B站补档1](https://www.bilibili.com/video/BV1PjQmBBEsN),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.24)|2026年1月8日|
 |1805|精神小伙开车载妹狂飙时速200，撞人后淡定摆pose拍照|**已删档**|[B站补档1](https://www.bilibili.com/video/BV16G2hBBEvv),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v18.05)|2025年12月1日|
 |1767|女子横穿马路被判全责，家属不服：以前驾驶员都要带点责任，现在怎么变了？|**15删除**|[B站补档](https://www.bilibili.com/video/BV1gBptz6EXS),[GitHub](https://github.com/TC999/CHJSL-archive/releases/tag/v17.67)|2025年9月16日|
